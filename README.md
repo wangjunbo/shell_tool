@@ -11,3 +11,4 @@ wget www.hohode.com/static/resource/wmv && chmod 777 wmv && mv wmv /usr/bin/
 ```
 wmv filename.txt
 ```
+文件会被移动到类似 /tmp/peace/20171216220146/ 的目录下。
