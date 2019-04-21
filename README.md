@@ -15,5 +15,5 @@ wmv filename.txt
 
 ### 文件备份
 ```
-wget http://so.hohode.com/resource/shell/wbk && chmod 777 wmv && mv wmv /usr/bin/
+wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wbk /usr/bin/
 ```
