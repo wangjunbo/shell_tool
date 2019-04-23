@@ -7,6 +7,10 @@ Linux and Mac shell tools
 ```
 wget http://so.hohode.com/resource/shell/wmv && chmod 777 wmv && mv wmv /usr/bin/
 ```
+如果是Mac系统，执行如下命令：
+```
+wget http://so.hohode.com/resource/shell/wmv && chmod 777 wmv && mv wmv /usr/local/bin/
+```
 以后想要删除文件，使用以下方式进行删除：
 ```
 wmv filename.txt
@@ -16,4 +20,8 @@ wmv filename.txt
 ### 文件备份
 ```
 wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wbk /usr/bin/
+```
+如果是Mac系统，执行如下命令：
+```
+wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wmv /usr/local/bin/
 ```
