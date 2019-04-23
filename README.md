@@ -23,5 +23,5 @@ wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wbk /usr/bin
 ```
 如果是Mac系统，执行如下命令：
 ```
-wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wmv /usr/local/bin/
+wget http://so.hohode.com/resource/shell/wbk && chmod 777 wbk && mv wbk /usr/local/bin/
 ```
